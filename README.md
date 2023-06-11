@@ -14,6 +14,7 @@
 - [ ] backoffice ui tool
 - [ ] photo management
 - [ ] project management
+- [ ] search engine
 
 ## book study
 - [ ] 리팩토링
